@@ -29,6 +29,7 @@ I am passionate about **continuous learning**, **teamwork**, and creating practi
 ### 🏫 Bachelor’s in Software Engineering
 
 **University of Technology and Applied Sciences, Muscat**
+
 📅 2019 – 2025
 ⭐ GPA: 3.39
 
