@@ -1,6 +1,6 @@
 # Hi, I'm Baraah Alsaadi 👋✨
 
-### 👩‍💻 Software Engineering Graduate | 🌐 Web & Mobile Developer | 💻 C# & Laravel Developer | 🎨 UX/UI Designer | 🗺️ GIS Enthusiast
+### 👩‍💻 Software Engineering Graduate | 🌐 Web & Mobile Developer | 💻 full Stack .NET Developer | 🎨 UX/UI Designer | 🗺️ GIS Enthusiast 
 
 Welcome to my GitHub profile! 💫
 
