@@ -3,6 +3,7 @@
 ### 👩‍💻 Software Engineering Graduate | 🌐 Web & Mobile Developer | 🎨 UX/UI Designer | 🗺️ GIS Enthusiast
 
 Welcome to my GitHub profile! 💫
+
 I am a recent **Software Engineering graduate** from the **University of Technology and Applied Sciences, Muscat, Oman**.
 
 I enjoy building **web and mobile applications**, designing **user-friendly interfaces**, and using technology to solve real-world problems.
