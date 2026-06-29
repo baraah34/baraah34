@@ -1,13 +1,12 @@
 # Hi, I'm Baraah Alsaadi 👋✨
 
-### 👩‍💻 Software Engineering Graduate | 🌐 Web & Mobile Developer | 💻 full Stack .NET Developer | 🎨 UX/UI Designer | 🗺️ GIS Enthusiast 
+### 👩‍💻 Software Engineering Graduate | 🌐 Web & Mobile Developer | 💻 Full stak .NET Developer | 🎨 UX/UI Designer | 🗺️ GIS Enthusiast
 
 Welcome to my GitHub profile! 💫
 
-
 I am a recent **Software Engineering graduate** from the **University of Technology and Applied Sciences, Muscat, Oman**.
 
-I enjoy building **web and mobile applications**, designing **user-friendly interfaces**, and using technology to solve real-world problems.  
+I enjoy building **web and mobile applications**, designing **user-friendly interfaces**, and using technology to solve real-world problems.
 I have experience with **Laravel, Flutter, JavaScript, Python, C#, SQL, OutSystems, QGIS, and Figma**.
 
 I am passionate about **continuous learning**, **teamwork**, and creating practical digital solutions that make life easier. 🚀
@@ -31,7 +30,7 @@ I am passionate about **continuous learning**, **teamwork**, and creating practi
 
 **University of Technology and Applied Sciences, Muscat**
 
-📅 2019 – 2025  
+📅 2019 – 2025
 ⭐ GPA: 3.39
 
 ### 📌 Graduation Thesis
@@ -109,12 +108,16 @@ I am passionate about **continuous learning**, **teamwork**, and creating practi
 * Used lists, functions, menus, and basic data handling.
 * Improved problem-solving and programming logic.
 
-### 🏨 C# Hotel Management System
+[![View Project](https://img.shields.io/badge/View%20Project-Flight%20Management-blue?style=for-the-badge\&logo=github)](PUT-FLIGHT-LINK-HERE)
+
+### 🏨 [C# Hotel Management System](https://github.com/baraah34/OOP_TASKS/blob/master/Program.cs)
 
 * Developed a console-based hotel management system using C#.
 * Practiced room booking, guest registration, and checkout logic.
 * Used classes, objects, lists, and functions.
 * Applied simple LINQ concepts for searching and filtering.
+
+[![View Project](https://img.shields.io/badge/View%20Project-Hotel%20Management-purple?style=for-the-badge\&logo=github)](https://github.com/baraah34/OOP_TASKS/blob/master/Program.cs)
 
 ---
 
