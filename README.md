@@ -1,13 +1,13 @@
 # Hi, I'm Baraah Alsaadi 👋✨
 
-### 👩‍💻 Software Engineering Graduate | 🌐 Web & Mobile Developer | 🎨 UX/UI Designer | 🗺️ GIS Enthusiast
+### 👩‍💻 Software Engineering Graduate | 🌐 Web & Mobile Developer | 💻 C# & Laravel Developer | 🎨 UX/UI Designer | 🗺️ GIS Enthusiast
 
 Welcome to my GitHub profile! 💫
 
 I am a recent **Software Engineering graduate** from the **University of Technology and Applied Sciences, Muscat, Oman**.
 
-I enjoy building **web and mobile applications**, designing **user-friendly interfaces**, and using technology to solve real-world problems.
-I have experience with **Laravel, Flutter, JavaScript, Python, SQL, OutSystems, QGIS, and Figma**.
+I enjoy building **web and mobile applications**, designing **user-friendly interfaces**, and using technology to solve real-world problems.  
+I have experience with **Laravel, Flutter, JavaScript, Python, C#, SQL, OutSystems, QGIS, and Figma**.
 
 I am passionate about **continuous learning**, **teamwork**, and creating practical digital solutions that make life easier. 🚀
 
@@ -17,7 +17,7 @@ I am passionate about **continuous learning**, **teamwork**, and creating practi
 
 * 🎓 Bachelor’s Degree in Software Engineering
 * 📍 Based in Muscat, Oman
-* 💻 Interested in Web Development, Mobile Apps, UX/UI Design, GIS, and Low-Code Development
+* 💻 Interested in Web Development, Mobile Apps, UX/UI Design, GIS, Low-Code Development, and C# Projects
 * 🌱 Currently improving my skills in software development, databases, and digital solutions
 * 🤝 Open to training opportunities, internships, and junior software development roles
 * ✨ I love learning new technologies and building useful projects
@@ -30,7 +30,7 @@ I am passionate about **continuous learning**, **teamwork**, and creating practi
 
 **University of Technology and Applied Sciences, Muscat**
 
-📅 2019 – 2025
+📅 2019 – 2025  
 ⭐ GPA: 3.39
 
 ### 📌 Graduation Thesis
@@ -101,6 +101,20 @@ I am passionate about **continuous learning**, **teamwork**, and creating practi
 * Built JavaScript web projects with interactive UI elements.
 * Developed Flutter mobile app prototypes with clean navigation.
 
+### ✈️ C# Flight Management System
+
+* Built a console-based flight management system using C#.
+* Practiced object-oriented programming concepts.
+* Used lists, functions, menus, and basic data handling.
+* Improved problem-solving and programming logic.
+
+### 🏨 C# Hotel Management System
+
+* Developed a console-based hotel management system using C#.
+* Practiced room booking, guest registration, and checkout logic.
+* Used classes, objects, lists, and functions.
+* Applied simple LINQ concepts for searching and filtering.
+
 ---
 
 ## 🛠️ Technical Skills
@@ -108,6 +122,7 @@ I am passionate about **continuous learning**, **teamwork**, and creating practi
 ### 👩‍💻 Programming Languages
 
 <p>
+  <img src="https://img.shields.io/badge/C%23-Programming-purple?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-Flutter-blue?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -125,6 +140,8 @@ I am passionate about **continuous learning**, **teamwork**, and creating practi
   <img src="https://img.shields.io/badge/Figma-Design-purple?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-Design-blue?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-Server-orange?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-IDE-purple?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-black?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
